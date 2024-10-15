@@ -1,0 +1,45 @@
+# BMI Calculator
+
+A simple BMI calculator application built with Python and Tkinter.
+
+## Description
+
+This application allows users to calculate their Body Mass Index (BMI) based on their height and weight. It provides recommendations and medical advice based on the calculated BMI category.
+
+## Features
+
+- User-friendly interface
+- Calculates BMI based on user input (height in meters and weight in kilograms)
+- Displays BMI category (Underweight, Normal, Overweight, Obese)
+- Provides health recommendations based on BMI results
+
+## Requirements
+
+- Python 3.x
+- Tkinter (comes pre-installed with Python)
+
+## How to Run
+
+1. Clone the repository or download the code.
+2. Navigate to the project directory.
+3. (Optional) Create a virtual environment:
+   ```
+   python -m venv venv
+
+4.Activate the virtual environment:
+Windows: venv\Scripts\activate
+macOS/Linux: source venv/bin/activate
+
+5.Run the application:
+python bmi_calculator.py
+
+Usage
+Enter your name, height (in meters), and weight (in kilograms).
+Click the "Calculate BMI" button.
+View your BMI result and the corresponding health recommendations.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Author
+[LAMIN M CAMARA]
